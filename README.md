@@ -1,3 +1,3 @@
-# Youtube Donloader using Python
+# Youtube Downloader using Python
 
 ## Requirements - pip install pytube
