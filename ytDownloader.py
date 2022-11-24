@@ -13,7 +13,7 @@ print("View: ", yt.views)
 yd = yt.streams.get_highest_resolution()
 
 # ADD FOLDER HERE
-yd.download('./FOLDERNAME')
+yd.download('./YT_DOWNLOADS')
 
 # To run ths program type the following below into your command/terminal
 # python3 youtube_downloader.py "NAME OF URL GOES HERE!"
