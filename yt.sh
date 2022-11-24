@@ -1,3 +1,3 @@
-#!/bin/zsh
+#!/bin/bash
 
-cd /Users/ray/documents/projects/python/ python3 ytDownloader.py $1
+cd /Users/ray/Documents/projects/python/youtube_downloader python3 ytDownloader.py $1
